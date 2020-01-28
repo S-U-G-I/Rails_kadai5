@@ -27,4 +27,6 @@
 /config/master.key
 
 .DS_Store
-/vendor/bundle
+database_yml
+vendor/bundle
+/.bundle
